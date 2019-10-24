@@ -1,0 +1,7 @@
+User-agent: *
+
+Host: https://rusvolley.ru/
+
+
+Clean-param: is_view&themes&mode
+Sitemap: https://rusvolley.ru/sitemap.xml
